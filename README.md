@@ -1,15 +1,12 @@
 
-### Hi there 👋 [![HitCount](http://hits.dwyl.com/Ademking/Ademking.svg)](http://hits.dwyl.com/Ademking/Ademking)
+### Adem Kouki 👋 [![HitCount](http://hits.dwyl.com/Ademking/Ademking.svg)](http://hits.dwyl.com/Ademking/Ademking)
 
-`😄 Adem Kouki` |  `🌱 Bizerte, Tunisia` | <img src="https://raw.githubusercontent.com/saiemsaeed/saiemsaeed/master/linkedin-icon.png" width="15" height="15" alt="html logo"/> `linkedin.com/in/ademkouki/`
-
+I am Adem Kouki from Bizerte, Tunisia 
 A seasoned and creative frontend/backend developer with 4+ years of experience leveraging CSS and JavaScript frameworks to build web & mobile applications, and interactive features that drive business growth and improve UX. I have a strong focus on users goals and profound passion to reduce the complexities with flair of design and my delicate and careful nature ensures high quality sites delivery.
 
-## Key skills
+![Adem Kouki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ademking&show_icons=true)
 
-`HTML, CSS, JavaScript, PHP, C#, Java, Dart, Angular, React, Laravel, Ionic, Flutter, Photoshop, Adobe XD`.
-
-## I have been working on
+## I have been working with
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30" height="30" alt="html logo"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30" height="30" alt="css logo">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="30" height="30" alt="sass logo">

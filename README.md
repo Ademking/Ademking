@@ -39,11 +39,3 @@ A seasoned and creative frontend/backend developer with 4+ years of experience l
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" class="rounded-1 mr-3" width="30" height="30" alt="webpack">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" class="rounded-1 mr-3" width="30" height="30" alt="wordpress">
 
-
-
-
-### I am really glad to see you here !
-Your are the [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Ademking.visitor-badge)](https://github.com/Ademking) since i added this profile <br>
-The green dots on my [**GitHub** profile](https://github.com/Ademking=repositories) represent my journeys :rocket:.<br> Please have a look and share your thoughts. 
-
-Thank you 🙏 😊  

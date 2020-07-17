@@ -1,7 +1,7 @@
 
 ### Adem Kouki 🍪 [![HitCount](http://hits.dwyl.com/Ademking/Ademking.svg)](http://hits.dwyl.com/Ademking/Ademking)
 
-I am Adem Kouki from Bizerte, Tunisia 
+I am Adem Kouki from Bizerte, Tunisia.
 A seasoned and creative frontend/backend developer with 4+ years of experience leveraging CSS and JavaScript frameworks to build web & mobile applications, and interactive features that drive business growth and improve UX. I have a strong focus on users goals and profound passion to reduce the complexities with flair of design and my delicate and careful nature ensures high quality sites delivery.
 
 ![Adem Kouki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ademking&show_icons=true)

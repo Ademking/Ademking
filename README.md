@@ -6,6 +6,9 @@ A seasoned and creative frontend/backend developer with 4+ years of experience l
 
 ![Adem Kouki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ademking&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ademking)](https://github.com/Ademking/github-readme-stats)
+
+
 ## I have been working with
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30" height="30" alt="html logo"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30" height="30" alt="css logo">

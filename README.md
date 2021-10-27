@@ -1,1 +1,1 @@
-[![Adem Kouki](https://raw.githubusercontent.com/J2TEAM/J2TEAM/main/dino.gif)](http://about.me/ademkouki)
+[![Visitor Counter for Ademking](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=Ademking)}](https://pimp-my-readme.webapp.io)
